@@ -1,0 +1,12 @@
+*/*/*.json
+*/*.json
+*.json
+*/*/*.dat
+*/*.dat
+*.dat
+*/*/*.csv
+*/*.csv
+*.csv
+*/*/*.db
+*/*.db
+*.db
